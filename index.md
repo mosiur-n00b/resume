@@ -26,16 +26,13 @@ title: Resume
 ---
 ## EDUCATION
 ---
-### BRAC University  
-*Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)*  
-CGPA: **3.71** (out of **4.00**) 
+### Ahsanullah University of Science and Technology
+*Bachelor of Science in Computer Science (May 2016 - June 2023)*
+CGPA: **3.01** (out of **4.00**) 
 
-### Oxford International School
-*GCE A Level*  
-Result: **4 As** and **1 B**
-
-*GCE O Level*  
-Result: **4 A*s**, **3 As** and **2 Bs**
+### Dhaka City College
+*Higher Secondary School Certificate*  
+GPA: **4.58** (out of **5.00**) 
 
 <br />
 
