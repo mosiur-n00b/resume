@@ -1,16 +1,15 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
+title: Mosiur Rahman
+description: Jr. Full Stack Web Developer, Science Master Ltd.
 baseurl: "/remple/"
 url: ""
 photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
-email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
-medium: "https://tahanima.medium.com/"
+email: "mosiur.n00b@gmail.com"
+linkedin: "http://linkedin.com/in/mosiur-n00b"
+github: "https://github.com/mosiur-n00b"
+medium: "https://medium.com/@mosiur.n00b"
 
 markdown: kramdown
 theme: minima
